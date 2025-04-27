@@ -179,7 +179,7 @@ h2{
 h4{
     text-align: center;
 }
-@media screen and (max-width: 600px){
+@media screen and (max-width: 800px){
     .pembungkus{
         width: 100%;
     }
