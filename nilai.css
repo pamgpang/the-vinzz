@@ -8,7 +8,7 @@
 .pembungku{
     width: 90%;
     height: 1600px;
-    background-color: white;
+    background-color: ;
     margin: auto;
 }
 .masok{
@@ -38,7 +38,7 @@
 .tulis{
     width: 30%;
     height: 200px;
-    background-color: skyblue;
+    background-color: white;
     margin-left: 50px;
     margin-top: 100px;
     
@@ -52,7 +52,7 @@ p{
 .tbl{
     width: 30%;
     height: 40px;
-    background-color: gray;
+    background-color: white;
     margin: auto;
     margin-top: 10px;
 }
@@ -78,7 +78,7 @@ p{
 .teks{
     width: 30%;
     height: 300px;
-    background-color: skyblue;
+    background-color: white;
     margin-left: 30px;
 }
 .masok4{
@@ -102,7 +102,7 @@ p{
 .ndk-tw-apa2{
     width: 20%;
     height: 200px;
-    background-color: skyblue;
+    background-color: white;
     margin-left: 20px;
 }
 .spes{
