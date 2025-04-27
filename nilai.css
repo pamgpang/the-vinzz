@@ -8,7 +8,7 @@
 .pembungku{
     width: 90%;
     height: 1600px;
-    background-color: ;
+    background-color: gray;
     margin: auto;
 }
 .masok{
@@ -25,7 +25,7 @@
 .gbr{
     width: 15%;
     height: 200px;
-    background-color: skyblue;
+    background-color: white;
     margin-left: 250px;
     margin-top: 100px;
 }
